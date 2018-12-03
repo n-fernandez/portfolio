@@ -1,0 +1,41 @@
+body {
+	background: url(../images/bg.jpg) no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family:'Noto Sans',sans-serif;
+}	
+/* first */
+h1 {
+	color: white:
+	font-size: 14px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+/* Second */
+h2 {
+	color: black;
+	font-size: 14px;
+	margin-top: 0;
+}
+/* Third */
+.bio {
+	color: white;
+	font-size: 14px;
+}
+/* Fourth */
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+/* Fifth */
+.about{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
